@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://fazalhussain.io)
 <h1 align="center">Hi 👋, I'm Fazal Hussain</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
 
