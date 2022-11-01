@@ -18,9 +18,9 @@
 <p align="left">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifazalhussain/)
-[![](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.gmail.com/dshussainfazal@gmail.com/) 
+[![](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.gmail.com/send?email=dshussainfazal@gmail.com/) 
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+919059870688)
-[![](https://img.shields.io/badge/Instagram-fc0703?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ifazalhussain_/)
+[![](https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ifazalhussain_/)
 
  
 <!-- <a href="https://linkedin.com/in/ifazalhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifazalhussain" height="30" width="40" /></a> 
