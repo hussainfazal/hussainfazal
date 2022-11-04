@@ -47,7 +47,7 @@
 
 | 🚶 [Customer Churn Prediction](https://github.com/hussainfazal/Customer-Churn-Prediction)| 🌧️ [Rainfall Prediction](https://github.com/hussainfazal/Rainfall-Prediction-Model)|
 | :-:| :-:| 
-| [<img src = "https://github.com/hussainfazal/images/blob/main/churn%20pic.jpeg" width = 500 height = 300/>](https://github.com/hussainfazal/Customer-Churn-Prediction)| [<img src="https://github.com/hussainfazal/images/blob/main/anant-jain-Bu1zj2WbjHE-unsplash.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Rainfall-Prediction-Model)
+| [<img src = "https://github.com/hussainfazal/images/blob/main/churn%202%20image.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Customer-Churn-Prediction)| [<img src="https://github.com/hussainfazal/images/blob/main/anant-jain-Bu1zj2WbjHE-unsplash.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Rainfall-Prediction-Model)
 
 | 🏩 [Airbnb Booking Analysis](https://github.com/hussainfazal/Airbnb-Booking-Analysis)|
 | :-:|
