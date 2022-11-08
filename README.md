@@ -1,9 +1,8 @@
 
 
-![Profile](https://user-images.githubusercontent.com/75985002/200595531-a9f6f3b2-9ef1-4864-9118-8b27f9881779.jpg)
+![Screenshot_20221108_203044](https://user-images.githubusercontent.com/75985002/200599091-3213eb50-3cae-459c-80fb-3fb0896a9312.png)
 
 
- 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 A Mechanical guy transitioned to Data Science 
