@@ -34,11 +34,23 @@ I learn't various skills during my course and Learning these important skills he
 
 <h2 align = "center"> 🖥 My Projects </h2> 
 
-| 🚶 [Customer Churn Prediction](https://github.com/hussainfazal/Customer-Churn-Prediction)| 🌧️ [Rainfall Prediction](https://github.com/hussainfazal/Rainfall-Prediction-Model)|
+| 🚴 [Bike Demand Prediction](https://github.com/hussainfazal/Bike_Demand_Prediction)| 🚶 [Customer Churn Prediction](https://github.com/hussainfazal/Customer-Churn-Prediction)
 | :-:| :-:| 
-| [<img src = "https://github.com/hussainfazal/images/blob/main/churn%202%20image.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Customer-Churn-Prediction)| [<img src="https://github.com/hussainfazal/images/blob/main/anant-jain-Bu1zj2WbjHE-unsplash.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Rainfall-Prediction-Model)
+| [<img src="https://github.com/hussainfazal/images/blob/main/Bike%20demand%20image.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Bike_Demand_Prediction)| [<img src = "https://github.com/hussainfazal/images/blob/main/churn%202%20image.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Customer-Churn-Prediction)
 
-| 🏩 [Airbnb Booking Analysis](https://github.com/hussainfazal/Airbnb-Booking-Analysis)|
-| :-:|
-| [<img src = "https://github.com/hussainfazal/images/blob/main/airbnb%20image.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Airbnb-Booking-Analysis)|
+
+| 🌧️ [Rainfall Prediction](https://github.com/hussainfazal/Rainfall-Prediction-Model)| 🏩 [Airbnb Booking Analysis](https://github.com/hussainfazal/Airbnb-Booking-Analysis)
+| :-:| :-:| 
+| [<img src="https://github.com/hussainfazal/images/blob/main/anant-jain-Bu1zj2WbjHE-unsplash.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Rainfall-Prediction-Model)| [<img src = "https://github.com/hussainfazal/images/blob/main/airbnb%20image.jpg" width = 500 height = 300/>](https://github.com/hussainfazal/Airbnb-Booking-Analysis)
+
+
+
+
+
+
+
+
+
+
+
 
