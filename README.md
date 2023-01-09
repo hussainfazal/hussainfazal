@@ -5,7 +5,7 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-A Mechanical Engineer switched their career into Data Science, Because I believe that there is a huge potential for Data Scientist in different domains and also the advancement in computing power really pushes the field of Data Science Deep Learning to a whole new level. i have completed a courses such as Google Data Analytics from Coursera and Full Stack Data Science from AlmaBetter, In this journey i learn't various skills like Python, Microsoft Excel, MySQL, PostgreSQL, Statistics, Machine Learning, Deep Learning and basics of Big data and as a part of this program I did Various Projects such as Bike Demand Prediction, Customer Churn Prediction, Rainfall Prediction model and Airbnb Booking Analysis. Currently Seeking to be a part of solid data science team where I can fully utilize my skills and knowledge.
+A Mechanical Engineer transitioned his career into Data Science, Because I believe that there is a huge potential for Data Science in different domains and also the advancement in computing power really pushes the field of Data Science / Deep Learning to a whole new level. i have completed courses such as Google Data Analytics from Coursera and Full Stack Data Science from AlmaBetter, In this journey i learn't various skills like Python, Microsoft Excel, MySQL, PostgreSQL, Statistics, Tablueu, Power BI, Machine Learning, Deep Learning and basics of Big data and as a part of this program I did Various Projects such as Bike Demand Prediction, Customer Churn Prediction, Rainfall Prediction model and Airbnb Booking Analysis. Currently Seeking to be a part of solid data science team where I can fully utilize my skills and knowledge.
 
 
 
